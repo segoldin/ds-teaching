@@ -41,6 +41,7 @@ public static void main(String args[])
 	if ((value >=0 ) && (count < MAXVALS))
 	{
 	  exampleList[i] = value;
+	  i = i + 1;
 	  count = count+1;
 	  System.out.println(" --- List now holds " + count + " items\n");
 	}

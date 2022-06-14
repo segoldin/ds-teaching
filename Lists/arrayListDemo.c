@@ -32,6 +32,7 @@ int main(int argc, char* argv[])
 	if ((value >= 0) && (count < MAXVALS))
 	{  
 	  exampleList[i] = value;
+	  i = i + 1;
 	  count = count+1;
 	  printf(" --- List now holds %d items\n",count);
 	}
