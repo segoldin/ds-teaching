@@ -1,6 +1,6 @@
 /** CoupleDemo.java
  * 
- * Simple demonstration programming showing the use of structs/objects and relationships
+ * Simple demonstration program showing the use of structs/objects and relationships
  * between them.
  *
  * Created by Sally Goldin for AiCE Warp Data Structures competency, 25 June 2022
@@ -255,7 +255,7 @@ public class CoupleDemo
 	      gender = promptForString("New person's gender?");
 	      System.out.print("Not yet implemented!\n");	    
 	      // ASSIGNMENT TWO: Write the code here to add a new person
-	      // to the people array.
+	      // to linked list of person objects
 	      // DON'T FORGET TO: add 1 to peopleCount 
 	      // To be completely correct, you also need to check that there
 	      // is not already a person with this name in the list.

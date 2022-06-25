@@ -1,6 +1,6 @@
 /* coupleDemo.c
  * 
- * Simple demonstration programming showing the use of structs/objects and relationships
+ * Simple demonstration program showing the use of structs/objects and relationships
  * between them.
  *
  * Created by Sally Goldin for AiCE Warp Data Structures competency, 25 June 2022
