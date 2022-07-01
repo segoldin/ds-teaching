@@ -1,4 +1,4 @@
-/*  UniversityTree.c
+/*  UniversityTree.java
  *
  *  Partially complete program giving students the chance to work with trees
  *  Created by Sally Goldin, 1 July 2022 for AiCE Warp Data Structures competency
