@@ -12,8 +12,6 @@ appraise|To estimate the money value of.
 appreciable|Capable of being discerned by the senses or intellect.
 apprehend|To make a prisoner of (a person) in the name of the law.
 apprehensible|Capable of being conceived.
-approbation|Sanction
-appropriate|Suitable for the purpose and circumstances.
 aqueduct|A water-conduit, particularly one for supplying a community from a distance.
 aqueous|Of, pertaining to, or containing water.
 arbiter|One chosen or appointed, by mutual consent of parties in dispute, to decide matters.
@@ -62,7 +60,7 @@ ascetic|Given to severe self-denial and practicing excessive abstinence and devo
 ascribe|To assign as a quality or attribute.
 asexual|Having no distinct sexual organs.
 ashen|Pale.
-askance ad| With a side or indirect glance or meaning.
+askance| With a side or indirect glance or meaning.
 asperity|Harshness or roughness of temper.
 aspirant|One who seeks earnestly, as for advancement, honors, place.
 aspiration|An earnest wish for that which is above one's present reach.
@@ -87,7 +85,7 @@ astringent|Harsh in disposition or character.
 astute|Keen in discernment.
 atheism|The denial of the existence of God.
 athirst|Wanting water.
-athwart ad| From side to side.
+athwart| From side to side.
 atomizer|An apparatus for reducing a liquid to a fine spray, as for disinfection, inhalation, etc.
 atone|To make amends for.
 atonement|Amends, reparation, or expiation made from wrong or injury.
@@ -135,8 +133,8 @@ avidity|Greediness.
 avocation|Diversion
 avow|To declare openly.
 awaken|To arouse, as emotion, interest, or the like.
-awry ad| &|Out of the proper form, direction, or position
-aye ad| An expression of assent.
+awry| &|Out of the proper form, direction, or position
+aye| An expression of assent.
 azalea|A flowering shrub.
 azure|The color of the sky.
 Baconian|Of or pertaining to Lord Bacon or his system of philosophy.
@@ -147,7 +145,7 @@ bailiff|An officer of court having custody of prisoners under arraignment.
 baize|A single-colored napped woolen fabric used for table-covers, curtains, etc.
 bale|A large package prepared for transportation or storage.
 baleful|Malignant.
-ballad|Any popular narrative poem, often with epic subject and usually in lyric form.
+ball|Any popular narrative poem, often with epic subject and usually in lyric form.
 balsam|A medical preparation, aromatic and oily, used for healing.
 banal|Commonplace.
 barcarole|A boat-song of Venetian gondoliers.
@@ -209,7 +207,7 @@ bestrew|To sprinkle or cover with things strewn
 bestride|To get or sit upon astride, as a horse.
 bethink|To remind oneself.
 betide|To happen to or befall.
-betimes ad| In good season or time.
+betimes| In good season or time.
 betroth|To engage to marry.
 betrothal|Engagement to marry.
 bevel|Any inclination of two surfaces other than 90 degrees.
@@ -769,7 +767,7 @@ cynical|Exhibiting moral skepticism.
 cynicism|Contempt for the opinions of others and of what others value.
 cynosure|That to which general interest or attention is directed.
 daring|Brave.
-darkling ad| Blindly.
+darkling| Blindly.
 Darwinism|The doctrine that natural selection has been the prime cause of evolution of higher forms.
 dastard|A base coward.
 datum|A premise, starting-point, or given fact.
@@ -777,7 +775,7 @@ dauntless|Fearless.
 day-man|A day-laborer.
 dead-heat|A race in which two or more competitors come out even, and there is no winner.
 dearth|Scarcity, as of something customary, essential ,or desirable.
-death's-head|A human skull as a symbol of death.
+death's-he|A human skull as a symbol of death.
 debase|To lower in character or virtue.
 debatable|Subject to contention or dispute.
 debonair|Having gentle or courteous bearing or manner.
@@ -972,7 +970,7 @@ dilettante|A superficial amateur.
 diligence|Careful and persevering effort to accomplish what is undertaken
 dilute|To make more fluid or less concentrated by admixture with something.
 diminution|Reduction
-dimly ad| Obscurely.
+dimly| Obscurely.
 diphthong|The sound produced by combining two vowels in to a single syllable or running together the sounds.
 diplomacy|Tact, shrewdness, or skill in conducting any kind of negotiations or in social matters.
 diplomat|A representative of one sovereign state at the capital or court of another.
@@ -1122,7 +1120,7 @@ donee|A person to whom a donation is made.
 donor|One who makes a donation or present.
 dormant|Being in a state of or resembling sleep.
 doublet|One of a pair of like things.
-doubly ad| In twofold degree or extent.
+doubly| In twofold degree or extent.
 dowry|The property which a wife brings to her husband in marriage.
 drachma|A modern and an ancient Greek coin
 dragnet|A net to be drawn along the bottom of the water.
@@ -1426,7 +1424,7 @@ expressive|Full of meaning.
 expulsion|Forcible ejection
 extant|Still existing and known
 extemporaneous|Done or made without much or any preparation
-extempore ad| Without studied or special preparation
+extempore| Without studied or special preparation
 extensible|Capable of being thrust out.
 extension|A reaching or stretching out, as in space, time or scope.
 extensive|Extended widely in space, time, or scope.
@@ -1509,7 +1507,7 @@ fief|A landed estate held under feudal tenure.
 filibuster|One who attempts to obstruct legislation
 finale|Concluding performance.
 finality|The state or quality of being final or complete.
-finally ad| At last.
+finally| At last.
 financial|Monetary.
 financier|One skilled in or occupied with financial affairs or operations.
 finery|That which is used to decorate the person or dress.
@@ -1558,7 +1556,7 @@ foot-note|A note of explanation or comment at the foot of a page or column
 foppery|Dandyism.
 foppish|Characteristic of one who is unduly devoted to dress and the niceties of manners.
 forbearance|Patient endurance or toleration of offenses.
-forby ad| Besides.
+forby| Besides.
 forcible|Violent.
 forecourt|A court opening directly from the street.
 forejudge|To judge of before hearing evidence.
@@ -1571,7 +1569,7 @@ foreclose|To bar by judicial proceedings the equitable right of a mortgagor to r
 forefather|An ancestor.
 forego|To deny oneself the pleasure or profit of.
 foreground|That part of a landscape or picture situated or represented as nearest the spectator.
-forehead|The upper part of the face, between the eyes and the hair.
+forehe|The upper part of the face, between the eyes and the hair.
 foreign|Belonging to, situated in, or derived from another country.
 foreigner|A citizen of a foreign country.
 foreknowledge|Prescience.
@@ -1593,8 +1591,8 @@ formidable|Difficult to accomplish.
 formula|Fixed rule or set form.
 forswear|To renounce upon oath.
 forte|A strong point.
-forth ad| Into notice or view.
-forthright ad| With directness.
+forth| Into notice or view.
+forthright| With directness.
 fortify|To provide with defensive works.
 fortitude|Patient courage.
 foursome|Consisting of four.
@@ -1650,7 +1648,7 @@ futile|Of no avail or effect.
 futurist|A person of expectant temperament.
 gauge|An instrument for measuring.
 gaiety|Festivity.
-gaily ad| Merrily.
+gaily| Merrily.
 gait|Carriage of the body in going.
 gallant|Possessing a brave or chivalrous spirit.
 galore|Abundant.
@@ -1674,7 +1672,7 @@ genealogy|A list, in the order of succession, of ancestors and their descendants
 genealogist|A tracer of pedigrees.
 generality|The principal portion
 generalize|To draw general inferences.
-generally ad| Ordinarily.
+generally| Ordinarily.
 generate|To produce or cause to be.
 generic|Noting a genus or kind; opposed to specific.
 generosity|A disposition to give liberally or to bestow favors heartily.
@@ -1775,8 +1773,8 @@ harmonious|Concordant in sound.
 havoc|Devastation
 hawthorn|A thorny shrub much used in England for hedges.
 hazard|Risk.
-head first ad| Precipitately, as in diving.
-head foremost ad| Precipitately, as in diving.
+head first| Precipitately, as in diving.
+head foremost| Precipitately, as in diving.
 heartrending|Very depressing.
 heathenish|Irreligious.
 heedless|Thoughtless.
@@ -1864,7 +1862,7 @@ hysteria|A nervous affection occurring typically in paroxysms of laughing and cr
 ichthyic|Fish-like.
 ichthyology|The branch of zoology that treats of fishes.
 ichthyosaurs|A fossil reptile.
-icily ad| Frigidly.
+icily| Frigidly.
 iciness|The state of being icy.
 icon|An image or likeness.
 iconoclast|An image-breaker.
@@ -1874,7 +1872,7 @@ idiosyncrasy|A mental quality or habit peculiar to an individual.
 idolize|To regard with inordinate love or admiration
 ignoble|Low in character or purpose.
 ignominious|Shameful.
-Iliad|A Greek epic poem describing scenes from the siege of Troy.
+Ili|A Greek epic poem describing scenes from the siege of Troy.
 illegal|Not according to law.
 illegible|Undecipherable.
 illegitimate|Unlawfully begotten
@@ -1995,12 +1993,12 @@ incentive|That which moves the mind or inflames the passions.
 inception|The beginning.
 inceptive|Beginning.
 incessant|Unceasing.
-inchmeal ad| Piecemeal.
+inchmeal| Piecemeal.
 inchoate|Incipient.
 inchoative|That which begins, or expresses beginning.
 incidence|Casual occurrence.
 incident|A happening in general, especially one of little importance.
-incidentally ad| Without intention
+incidentally| Without intention
 incinerate|To reduce to ashes.
 incipience|Beginning.
 incipient|Initial.
@@ -2027,7 +2025,7 @@ inconstant|Changeable.
 incontrovertible|Indisputable.
 inconvenient|Interfering with comfort or progress.
 indefensible|Untenable.
-indefinitely ad| In a vague or uncertain way.
+indefinitely| In a vague or uncertain way.
 indelible|That can not be blotted out, effaced, destroyed, or removed.
 indescribable|That can not be described.
 indestructible|That can not be destroyed.
@@ -2130,7 +2128,7 @@ inquire|To ask information about.
 inquisition|A court or tribunal for examination and punishment of heretics.
 inquisitive|Given to questioning, especially out of curiosity.
 inquisitor|One who makes an investigation
-inroad|Forcible encroachment or trespass.
+inro|Forcible encroachment or trespass.
 insatiable|That desires or craves immoderately or unappeasably.
 inscribe|To enter in a book, or on a list, roll, or document, by writing.
 inscrutable|Impenetrably mysterious or profound.
@@ -2255,7 +2253,7 @@ involuntary|Unwilling.
 involution|Complication
 involve|To draw into entanglement, literally or figuratively.
 invulnerable|That can not be wounded or hurt.
-inwardly ad| With no outward manifestation
+inwardly| With no outward manifestation
 iota|A small or insignificant mark or part.
 irascible|Prone to anger.
 irate|Moved to anger.
@@ -2340,7 +2338,7 @@ kingling|A petty king.
 kingship|Royal state.
 kinsfolk|pl. Relatives.
 knavery|Deceitfulness in dealing.
-knead|To mix and work into a homogeneous mass, especially with the hands.
+kne|To mix and work into a homogeneous mass, especially with the hands.
 knickknack|A small article, more for ornament that use.
 knight errant|One of the wandering knights who in the middle ages went forth in search of adventure.
 knighthood|Chivalry.
@@ -2365,7 +2363,7 @@ lascivious|Lustful.
 lassie|A little lass.
 latent|Dormant.
 latency|The state of being dormant.
-later ad| At a subsequent time.
+later| At a subsequent time.
 lateral|Directed toward the side.
 latish|Rather late.
 lattice|Openwork of metal or wood, formed by crossing or interlacing strips or bars.
@@ -2478,7 +2476,7 @@ lough|A lake or loch.
 louse|A small insect parasitic on and sucking the blood of mammals.
 lovable|Amiable.
 low-spirited|Despondent.
-lowly ad| Rudely.
+lowly| Rudely.
 lucid|Mentally sound.
 lucrative|Highly profitable.
 ludicrous|Laughable.
@@ -2579,7 +2577,7 @@ mausoleum|A tomb of more than ordinary size or architectural pretensions.
 mawkish|Sickening or insipid.
 maxim|A principle accepted as true and acted on as a rule or guide.
 maze|A labyrinth.
-mead|A meadow.
+me|A meadow.
 meager|scanty.
 mealy-mouthed|Afraid to express facts or opinions plainly.
 meander|To wind and turn while proceeding in a course.
@@ -2760,7 +2758,7 @@ muster|An assemblage or review of troops for parade or inspection, or for number
 mutation|The act or process of change.
 mutilate|To disfigure.
 mutiny|Rebellion against lawful or constituted authority.
-myriad|A vast indefinite number.
+myri|A vast indefinite number.
 mystic|One who professes direct divine illumination, or relies upon meditation to acquire truth.
 mystification|The act of artfully perplexing.
 myth|A fictitious narrative presented as historical, but without any basis of fact.
@@ -2776,7 +2774,7 @@ narrow-minded|Characterized by illiberal views or sentiments.
 nasal|Pertaining to the nose.
 natal|Pertaining to one's birth.
 nationality|A connection with a particular nation
-naturally ad| According to the usual order of things.
+naturally| According to the usual order of things.
 nausea|An affection of the stomach producing dizziness and usually an impulse to vomit
 nauseate|To cause to loathe.
 nauseous|Loathsome.
@@ -2833,7 +2831,7 @@ nocturnal|Of or pertaining to the night.
 noiseless|Silent.
 noisome|Very offensive, particularly to the sense of smell.
 noisy|Clamorous.
-nomad|Having no fixed abode.
+nom|Having no fixed abode.
 nomic|Usual or customary.
 nominal|Trivial.
 nominate|To designate as a candidate for any office.
@@ -2854,8 +2852,8 @@ noticeable|Perceptible.
 notorious|Unfavorably known to the general public.
 novellette|A short novel.
 novice|A beginner in any business or occupation
-nowadays ad| In the present time or age.
-nowhere ad| In no place or state.
+nowadays| In the present time or age.
+nowhere| In no place or state.
 noxious|Hurtful.
 nuance|A slight degree of difference in anything perceptible to the sense of the mind.
 nucleus|A central point or part about which matter is aggregated.
@@ -2922,7 +2920,7 @@ odium|A feeling of extreme repugnance, or of dislike and disgust.
 odoriferous|Having or diffusing an odor or scent, especially an agreeable one.
 odorous|Having an odor, especially a fragrant one.
 off|Farther or more distant.
-offhand ad| Without preparation
+offhand| Without preparation
 officiate|To act as an officer or leader.
 officious|Intermeddling with what is not one's concern
 offshoot|Something that branches off from the parent stock.
@@ -2991,7 +2989,7 @@ ostracism|Exclusion from intercourse or favor, as in society or politics.
 ostracize|To exclude from public or private favor.
 ought|To be under moral obligation to be or do.
 oust|To eject.
-out-and-out ad| Genuinely.
+out-and-out| Genuinely.
 outbreak|A sudden and violent breaking forth, as of something that has been pent up or restrained.
 outburst|A violent issue, especially of passion in an individual.
 outcast|One rejected and despised, especially socially.
@@ -3008,7 +3006,7 @@ outrageous|Shocking in conduct.
 outreach|To reach or go beyond.
 outride|To ride faster than
 outrigger|A part built or arranged to project beyond a natural outline for support.
-outright ad| Entirely.
+outright| Entirely.
 outskirt|A border region
 outstretch|To extend.
 outstrip|To go beyond.
@@ -3155,7 +3153,7 @@ pennant|A small flag.
 pension|A periodical allowance to an individual on account of past service done by him/her.
 pentagram|A figure having five points or lobes.
 pentavalent|Quinqeuvalent.
-pentad|The number five.
+pent|The number five.
 pentagon|A figure, especially, with five angles and five sides.
 pentahedron|A solid bounded by five plane faces.
 pentameter|In prosody, a line of verse containing five units or feet.
@@ -3180,7 +3178,7 @@ perforate|To make a hole or holes through.
 perform|To accomplish.
 perfumery|The preparation of perfumes.
 perfunctory|Half-hearted.
-perhaps ad| Possibly.
+perhaps| Possibly.
 perigee|The point in the orbit of the moon when it is nearest the earth.
 periodicity|The habit or characteristic of recurrence at regular intervals.
 peripatetic|Walking about.
@@ -3269,7 +3267,7 @@ physique|The physical structure or organization of a person
 picayune|Of small value.
 piccolo|A small flute.
 piece|A loose or separated part, as distinguished from the whole or the mass.
-piecemeal ad| Gradually.
+piecemeal| Gradually.
 pillage|Open robbery, as in war.
 pillory|A wooden framework in which an offender is fastened to boards and is exposed to public scorn
 pincers|An instrument having two lever-handles and two jaws working on a pivot.
@@ -3546,7 +3544,7 @@ provincial|Uncultured in thought and manner.
 proviso|A clause in a contract, will, etc., by which its operation is rendered conditional.
 provocation|An action or mode of conduct that excites resentment.
 prowess|Strength, skill, and intrepidity in battle.
-proximately ad| Immediately.
+proximately| Immediately.
 proxy|A person who is empowered by another to represent him or her in a given matter.
 prudence|Caution
 prudential|Proceeding or marked by caution
@@ -3606,7 +3604,7 @@ quiet|Making no noise.
 quietus|A silencing, suppressing, or ending.
 quintessence|The most essential part of anything.
 quintet|Musical composition arranged for five voices or instruments.
-quite ad| Fully.
+quite| Fully.
 Quixotic|Chivalrous or romantic to a ridiculous or extravagant degree.
 rabid|Affected with rabies or hydrophobia.
 racy|Exciting or exhilarating to the mind.
@@ -3634,7 +3632,7 @@ ravenous|Furiously voracious or hungry.
 ravine|A deep gorge or hollow, especially one worn by a stream or flow of water.
 reaction|Tendency towards a former, or opposite state of things, as after reform, revolution, or inflation
 reactionary|Pertaining to, of the nature of, causing, or favoring reaction
-readily ad| Without objection or reluctance.
+readily| Without objection or reluctance.
 readjust|To put in order after disarrangement.
 ready|In a state of preparedness for any given purpose or occasion
 realism|The principle and practice of depicting persons and scenes as they are believed really to exist.
@@ -3942,7 +3940,7 @@ secession|Voluntary withdrawal from fellowship, especially from political or rel
 seclude|To place, keep, or withdraw from the companionship of others.
 seclusion|Solitude.
 secondary|Less important or effective than that which is primary.
-secondly ad| In the second place in order or succession
+secondly| In the second place in order or succession
 second-rate|Second in quality, size, rank, importance, etc.
 secrecy|Concealment.
 secretary|One who attends to correspondence, keeps records. or does other writing for others.
@@ -3998,7 +3996,7 @@ service|Any work done for the benefit of another.
 serviceable|Durable.
 servitude|Slavery.
 severance|Separation
-severely ad| Extremely.
+severely| Extremely.
 sextet|A band of six singers or players.
 sextuple|Multiplied by six.
 sheer|Absolute.
@@ -4314,8 +4312,8 @@ theology|The branch of theological science that treats of God.
 theoretical|Directed toward knowledge for its own sake without respect to applications.
 theorist|One given to speculating.
 theorize|To speculate.
-thereabout ad| Near that number, quantity, degree, place, or time, approximately.
-therefor ad| For that or this.
+thereabout| Near that number, quantity, degree, place, or time, approximately.
+therefor| For that or this.
 thermal|Of or pertaining to heat.
 thermoelectric|Denoting electricity produced by heat.
 thermoelectricity|Electricity generated by differences of temperature,
@@ -4394,14 +4392,14 @@ treachery|Violation of allegiance, confidence, or plighted faith.
 treasonable|Of the nature of betrayal, treachery, or breech of allegiance.
 treatise|An elaborate literary composition presenting a subject in all its parts.
 treble|Multiplied by three.
-trebly ad| Triply.
+trebly| Triply.
 tremendous|Awe-inspiring.
 tremor|An involuntary trembling or shivering.
 tremulous|Characterized by quivering or unsteadiness.
 trenchant|Cutting deeply and quickly.
 trepidation|Nervous uncertainty of feeling.
 trestle|An open braced framework for supporting the horizontal stringers of a railway-bridge.
-triad|A group of three persons of things.
+tri|A group of three persons of things.
 tribune|Any champion of the rights and liberties of the people: often used as the name for a newspaper.
 trickery|Artifice.
 tricolor|Of three colors.
@@ -4567,13 +4565,13 @@ venom|The poisonous fluid that certain animals secrete.
 venous|Of, pertaining to, or contained or carried in a vein or veins.
 veracious|Habitually disposed to speak the truth.
 veracity|Truthfulness.
-verbatim ad| Word for word.
+verbatim| Word for word.
 verbiage|Use of many words without necessity.
 verbose|Wordy.
 verdant|Green with vegetation
 verification|The act of proving to be true, exact, or accurate.
 verify|To prove to be true, exact, or accurate.
-verily ad| In truth.
+verily| In truth.
 verity|Truth.
 vermin|A noxious or troublesome animal.
 vernacular|The language of one's country.
@@ -4657,13 +4655,13 @@ well-bred|Of good ancestry.
 well-doer|A performer of moral and social duties.
 well-to-do|In prosperous circumstances.
 whereabouts|The place in or near which a person or thing is.
-whereupon ad| After which.
-wherever ad| In or at whatever place.
+whereupon| After which.
+wherever| In or at whatever place.
 wherewith|The necessary means or resources.
 whet|To make more keen or eager.
 whimsical|Capricious.
 whine|To utter with complaining tone.
-wholly ad| Completely.
+wholly| Completely.
 wield|To use, control, or manage, as a weapon, or instrument, especially with full command.
 wile|An act or a means of cunning deception
 winsome|Attractive.
@@ -4673,7 +4671,7 @@ witchcraft|Sorcery.
 witless|Foolish, indiscreet, or silly.
 witling|A person who has little understanding.
 witticism|A witty, brilliant, or original saying or sentiment.
-wittingly ad| With knowledge and by design
+wittingly|With knowledge and by design
 wizen|To become or cause to become withered or dry.
 wizen-faced|Having a shriveled face.
 working-man|One who earns his bread by manual labor.
